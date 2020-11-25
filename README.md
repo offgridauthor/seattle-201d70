@@ -36,7 +36,7 @@ Assignments are submitted using a professional-grade git-flow. If you haven't do
 - [HTML 5 Reference Tags](cheat-sheets/html5-reference-tags.jpg)
 - [HTML 5 Sectioning Flow Chart](cheat-sheets/html5-sectioning-flowchart.pdf)
 - [Collection of Cheatsheets by overApi](https://overapi.com/)
-- [Boolean Practice](class-03/facilitator/boolean-practice.md)
+- [Boolean Practice](class-03/boolean-practice.md)
 - [Javascript Structure](class-09/javascript-structure.md)
 - [Git - Handling Merge Conflicts](class-15/handling-merge-conflicts.md)
 - [Post 201 Study Guide](class-15/post-201-study-guide.md)
