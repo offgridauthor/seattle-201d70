@@ -11,7 +11,7 @@ A cloud service where you can 'store' your versions online.
 ## How to save versions on your computer:
 
  1. Make or move into the directory you want to 'save'.
- 1. Initialize Git - in the terminal.
+ 1. Initialize Git - in the terminal **only do this if you do not create the repo online and clone it down first**
 
    `$git init`
 
