@@ -1,5 +1,8 @@
 # HTML Links, JS Functions, and Intro to CSS Layout
 
+##  Todays Repl
+- [Functions](https://repl.it/@rkgallaway/201d70-class-04-functions#index.js)
+
 ## Learning Objectives
 
 As a result of completing Lecture 4 of Code 201, students will:
