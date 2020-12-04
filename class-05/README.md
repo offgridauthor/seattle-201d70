@@ -4,6 +4,12 @@
 
 ## Lecture
 
+### Repls and CodePen
+
+- [Array Repl](https://repl.it/@rkgallaway/201d70-Class-05-Arrays#index.js)
+- [CSS Positioning CodePen](https://codepen.io/rkgallaway/pen/RwGrmeo)
+- [Functions and Arrays Repl](https://repl.it/@rkgallaway/201d70-Class-05-functions-and-arrays#index.js)
+
 ### Learning Objectives
 
 As a result of completing Lecture 5 of Code 201, students will:
