@@ -195,7 +195,7 @@ function multiplyAnyArray(dynamicArray) { //eslint-disable-line
     mult *= dynamicArray[i];
     listArray.push(dynamicArray[i]);
   }
-
+  
   // console.log(mult);
   // console.log(listArray);
 
