@@ -204,6 +204,8 @@ function multiplyAnyArray(dynamicArray) { //eslint-disable-line
   return [mult, multMess];
 }
 
+////
+
 // Here is the test for multiplyArray(); uncomment it to run it
 testMultiplyAnyArray(testDynamicArray);
 
