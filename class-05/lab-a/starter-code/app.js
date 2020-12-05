@@ -54,11 +54,49 @@ Test this function by hand in the console to get it working, and when you think 
 
 // Write your code here
 function sumAndMultiply(a, b, c) { //eslint-disable-line
+  var sumOne = sum(a,b)[0];
+ // console.log(sumOne);
+  var sumTotal = sum(sumOne, c)[0];
+  
+  var sumMessage = `${a} and ${b} and ${c} sum to ${sumTotal}.`
 
+  var productOne = multiply(a, b)[0];
+  var multiplyProduct = multiply(productOne, c)[0];
+  var productMessage = `The product of ${a} and ${b} and ${c} is ${multiplyProduct}.`
+
+  return [sumTotal, multiplyProduct, sumMessage, productMessage];
 }
 
+  //   var arr = [];
+//   var add = sum(a, b);
+//   arr.push(add[0]);
+//   console.log(arr);
+//   var add2 = sum(arr[0], c);
+//   arr.push(add2[0]);
+//   console.log(arr2);
+// arr.shift();
+
+//   var sumMessage = `${a} and ${b} and ${c} sum to ${arr[1]}.`
+
+// var mult1 = multiply(a,b);
+// arr.push(mult1[0]);
+// var mult2 = multiply(arr[2], c);
+// arr.push(mult2[0]);
+
+// arr.push(messageOne);
+// var multMessage = `The product of ${a} and ${b} and ${c} is ${arr[3]}.`
+// console.log(arr);
+// return arr;
+
+//   var productMessage = `The product of ${a} and ${b} and ${c} is ${productOfThree}.`;
+// //  console.log(message);
+//   return [sumOfThree, productOfThree, sumMessage, productMessage];
+
+//var add = (sum[0])(a,b);
+//
+
 // Here is the test for sumAndMultiply(); uncomment it to run it
-// testSumAndMultiply(4,7,5);
+testSumAndMultiply(4,7,5);
 
 // Once you get the test passing, do an a-c-p cycle and synchronize the code between GitHub and your laptop. Don't forget to create a new branch for your work on the next question!
 
