@@ -1,5 +1,12 @@
 # Lab: Fun with Functions
 
+## About this Fork
+
+- Forked from Ryan's master Codefellows 201 class repo 
+- Worked on Lab A, solving problems 1 through 6. Collaborators on problem 4: Carly Dekock and Jason Dormier. Some key insights from Ryan.
+
+---
+
 ## Problem Domain
 
 Today in lab you will fork and clone a GitHub repo, and then create solutions to some code problems such that your solutions pass the included tests.
